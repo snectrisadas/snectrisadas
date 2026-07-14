@@ -1,35 +1,41 @@
-<img align="right" height="280" src="https://i.pinimg.com/originals/77/1f/41/771f415e592a0e6e8a514bb29b43573d.gif" alt="gif" />
-
-<h1>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3333&vCenter=true&width=440&lines=Ol%C3%A1%2C+eu+sou+a+Clara+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
-Tô estudando Python! 🐍 Começando minha jornada na
-programação e aprendendo algo novo todo dia. Dá uma olhada
-no meu projeto **[vocabgo](https://github.com/snectrisadas/vocabgo)**,
-um treinador de vocabulário de inglês feito em Python!
+<p align="center">
+  <img height="280" src="https://i.pinimg.com/originals/77/1f/41/771f415e592a0e6e8a514bb29b43573d.gif" alt="gif" />
+</p>
 
-### Connect with me!
+<p align="center">
+  Tô estudando Python! 🐍 Começando minha jornada na programação e aprendendo algo novo todo dia.<br/>
+  Dá uma olhada no meu projeto <a href="https://github.com/snectrisadas/vocabgo"><b>vocabgo</b></a>, um treinador de vocabulário de inglês feito em Python!
+</p>
 
-<a href="mailto:trumtrum177@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B2B2B?style=for-the-badge&logo=gmail&logoColor=E4407F" /></a>
+<h3 align="center">Connect with me!</h3>
 
-<br clear="right"/>
+<p align="center">
+  <a href="mailto:trumtrum177@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B2B2B?style=for-the-badge&logo=gmail&logoColor=FF3333" /></a>
+</p>
 
-### My Stack
+<h3 align="center">My Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="stack" />
+</p>
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
-<p>
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=snectrisadas&show_icons=true&theme=radical&locale=pt-br&hide_border=true&bg_color=0d1117" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snectrisadas&layout=compact&theme=radical&locale=pt-br&hide_border=true&bg_color=0d1117" />
 </p>
 
-### 🐍 Snake eating my commits
+<h3 align="center">🐍 Snake eating my commits</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/snectrisadas/snectrisadas/output/github-snake-dark.svg" />
+  </picture>
+</p>
