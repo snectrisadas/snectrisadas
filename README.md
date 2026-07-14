@@ -19,8 +19,15 @@
 
 <h3 align="center">My Stack</h3>
 
+<h3 align="center">My Stack</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,kali,linux&theme=dark" alt="stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF3333" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=FF3333" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
