@@ -19,8 +19,6 @@
 
 <h3 align="center">My Stack</h3>
 
-<h3 align="center">My Stack</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,kali,linux&theme=dark" alt="stack" />
 </p>
