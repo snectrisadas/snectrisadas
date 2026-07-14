@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Tô estudando Python! 🐍 Começando minha jornada na programação e aprendendo algo novo todo dia.<br/>
+  Tô estudando Python! 🐍 Começando minha jornada na programação, curiosa sobre cibersegurança 🔐 e aprendendo algo novo todo dia.<br/>
   Dá uma olhada no meu projeto <a href="https://github.com/snectrisadas/vocabgo"><b>vocabgo</b></a>, um treinador de vocabulário de inglês feito em Python!
 </p>
 
@@ -20,7 +20,7 @@
 <h3 align="center">My Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,kali,linux&theme=dark" alt="stack" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
