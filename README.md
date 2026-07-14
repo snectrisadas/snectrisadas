@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="mailto:trumtrum177@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=FF3333" /></a>
+  <a href="https://linkedin.com/in/SEU-LINK-AQUI"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF3333" /></a>
 </p>
 
 <h3 align="center">My Stack</h3>
