@@ -1,7 +1,7 @@
 <img align="right" height="280" src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif" alt="gif" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E4407F&vCenter=true&width=440&lines=Ol%C3%A1%2C+eu+sou+a+Clara+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3333&vCenter=true&width=440&lines=Ol%C3%A1%2C+eu+sou+a+Clara+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 Tô estudando Python! 🐍 Começando minha jornada na
