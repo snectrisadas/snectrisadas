@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  Tô estudando Python! 🐍 Começando minha jornada na programação, curiosa sobre cibersegurança 🔐 e aprendendo algo novo todo dia.<br/>
-  Dá uma olhada no meu projeto <a href="https://github.com/snectrisadas/vocabgo"><b>vocabgo</b></a>, um treinador de vocabulário de inglês feito em Python!
+  Estudando Python 🐍 e dando os primeiros passos na programação — com um pé na cibersegurança 🔐<br/>
+  Aprendo algo novo todo dia e deixo o registro aqui nos commits.<br/>
+  Dá uma olhada no <a href="https://github.com/snectrisadas/vocabgo"><b>vocabgo</b></a>, meu treinador de vocabulário de inglês feito em Python!
 </p>
 
 <h3 align="center">Connect with me!</h3>
