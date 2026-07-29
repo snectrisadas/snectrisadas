@@ -5,8 +5,8 @@
   <img height="280" src="https://i.pinimg.com/originals/77/1f/41/771f415e592a0e6e8a514bb29b43573d.gif" alt="gif" />
 </p>
 <p align="center">
-  Learning Python 🐍 and taking my first steps in programming — with one foot in cybersecurity 🔐<br/>
-  I learn something new every day and keep the record here in my commits.
+  Learning Python 🐍 and finding my way around Kali Linux 🔐<br/>
+  Still early — but every commit here is something I didn't know yesterday.
 </p>
 <h3 align="center">Connect with me!</h3>
 <p align="center">
